@@ -1,0 +1,4 @@
+destination,avg_price,std_price,min_price,avg_duration,direct_ratio,final_score
+Budapest,121.89,52.35,40.0,278.96,0.57,155.1
+Praga,139.11,57.47,69.0,293.71,0.57,169.16
+Viena,120.15,36.97,67.0,361.0,0.35,175.77
